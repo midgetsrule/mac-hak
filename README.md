@@ -1,2 +1,14 @@
 # mac-hak
 mac hak
+GNU MAC Changer
+===============
+
+GNU MAC Changer is an utility that makes the maniputation of MAC
+addresses of network interfaces easier.
+
+ - Web site: http://www.gnu.org/software/macchanger
+ - Repository: http://github.com/alobbs/macchanger
+
+
+All the best,
+Alvaro Lopez Ortega <alvaro@alobbs.com>
